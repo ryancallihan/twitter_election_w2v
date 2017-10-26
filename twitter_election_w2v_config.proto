@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/ryancallihan/twitter_election_w2v/blob/master/w2v_vectors.tsv",
-      "metadataPath": "https://github.com/ryancallihan/twitter_election_w2v/blob/master/w2v_words.tsv",
+      "tensorPath": "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_vectors.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_words.tsv",
       "sprite": {
         "imagePath": "https://abovethelaw.com/wp-content/uploads/2016/04/cartoon-trump.jpg",
         "singleImageDim": [
