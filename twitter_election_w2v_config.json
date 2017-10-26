@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "Election Twitter Word2Vec",
+      "tensorName": "My tensor",
       "tensorShape": [
         1000,
         50
       ],
-      "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_vectors.tsv",
-      "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_words.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_vectors.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_words.tsv"
     }
   ]
 }
