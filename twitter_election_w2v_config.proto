@@ -7,13 +7,7 @@
         50
       ],
       "tensorPath": "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_vectors.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_words.tsv",
-      "sprite": {
-        "imagePath": "https://github.com/ryancallihan/twitter_election_w2v/blob/master/KfegzsqF_400x400.jpg?raw=true",
-        "singleImageDim": [
-          32,
-          32
-        ]
+      "metadataPath": "https://media.githubusercontent.com/media/ryancallihan/twitter_election_w2v/master/w2v_words.tsv"
       }
     }
   ]
