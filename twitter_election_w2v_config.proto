@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Election Twitter Word2Vec",
       "tensorShape": [
         1000,
         50
